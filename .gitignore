@@ -1,0 +1,3 @@
+ts-node-dev --respawn --transpile-only pathName
+
+ts-node-dev --respawn --transpile-only ./problem-solving/src/problem-1.ts
